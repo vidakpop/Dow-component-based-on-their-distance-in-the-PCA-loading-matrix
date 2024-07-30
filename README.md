@@ -1,8 +1,7 @@
 # Dow-component-based-on-their-distance-in-the-PCA-loading-matrix
 
 
-```markdown
-# Dow Component Analysis Based on PCA Loading Matrix
+
 
 This repository contains a Jupyter Notebook that analyzes the components of the Dow Jones Industrial Average (DJIA) based on their distance in the PCA loading matrix. The analysis aims to provide insights into the relationships and similarities between different components of the DJIA using Principal Component Analysis (PCA).
 
